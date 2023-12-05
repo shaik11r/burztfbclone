@@ -1,0 +1,14 @@
+.navbarfbclone {
+  text-align: center;
+}
+#signin {
+  display: grid;
+  grid-template-columns: 25% 50% 25%;
+  text-align: center;
+}
+.marginbottom {
+  margin-bottom: 1rem;
+}
+.margintop {
+  margin-top: 1rem;
+}
